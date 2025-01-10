@@ -1,4 +1,3 @@
-
 class University {
     private String name;
     private String location;
